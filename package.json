@@ -9,7 +9,7 @@
     "dev": "webpack serve --open",
     "watch": "webpack --progress --watch"
   },
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": "Kulsum <arif.kulsum@gmail.com> (http://strml.net/)",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.0",
